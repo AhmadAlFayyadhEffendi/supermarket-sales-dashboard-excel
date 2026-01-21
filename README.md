@@ -11,9 +11,12 @@ The dashboard provides key business insights such as:
 - Sales by product line
 - Rating by city
 - Distribution of payment methods
-
 It also includes interactive slicers to filter data by:
 - City
 - Customer type
 - Product line
 - Payment method
+
+## Dataset Used
+- <a href="https://github.com/AhmadAlFayyadhEffendi/supermarket-sales-dashboard-excel/blob/main/Data%20Supermarket-Latihan.xlsx>Dataset
+
