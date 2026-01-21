@@ -20,4 +20,15 @@ It also includes interactive slicers to filter data by:
 ## Dataset Used
 - Dataset: [Data Supermarket-Latihan.xlsx](https://github.com/AhmadAlFayyadhEffendi/supermarket-sales-dashboard-excel/blob/main/Data%20Supermarket-Latihan.xlsx)
 
+## Tools & Techniques Used
+- Microsoft Excel
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
+
+## Objective
+The objective of this project is to analyze supermarket sales data and present important business metrics in a clear and interactive dashboard format.
+This project also demonstrates my ability to transform raw data into meaningful insights using Excel.
 
