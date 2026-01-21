@@ -18,5 +18,6 @@ It also includes interactive slicers to filter data by:
 - Payment method
 
 ## Dataset Used
-- <a href="https://github.com/AhmadAlFayyadhEffendi/supermarket-sales-dashboard-excel/blob/main/Data%20Supermarket-Latihan.xlsx>Dataset
+- Dataset: [Data Supermarket-Latihan.xlsx](https://github.com/AhmadAlFayyadhEffendi/supermarket-sales-dashboard-excel/blob/main/Data%20Supermarket-Latihan.xlsx)
+
 
